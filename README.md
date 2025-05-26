@@ -1,5 +1,6 @@
-### EM DESENVOLVIMENTO
----
+### <img width="140" src="https://i.imgur.com/LjcxAD4.png"> 
+----
+#### EM DESENVOLVIMENTO 
 Movee é projeto que simula um app de streaming de filmes e séries. 
 
 Em suma, este projeto visa reforçar alguns conhecimentos em torno de criação de interfaces, tendo como principal objetivo entregar uma face amigável, acolhedora e estilosa para seus usuários.
